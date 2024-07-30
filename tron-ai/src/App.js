@@ -1,4 +1,3 @@
-// import logo from './logo.svg';
 import './App.css';
 import logo2 from './Images/TronIcon.png'
 
