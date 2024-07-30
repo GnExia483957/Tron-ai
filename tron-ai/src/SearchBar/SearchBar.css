@@ -1,5 +1,21 @@
-.searchBar{
-    background: green;
+.searchAI{
+    background-color: #f6f7fb;
     padding-top: 5%;
     padding-bottom: 5%;
 }
+
+input{
+    width: 75%;
+    padding: 5px 10px;
+}
+
+.Search-Button {
+    background-color: #ff0200; /* Red */
+    border: none;
+    color: black;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }

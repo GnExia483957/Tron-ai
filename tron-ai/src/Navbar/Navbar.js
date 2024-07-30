@@ -8,7 +8,6 @@ function Navbar() {
     return (
         <div class="nav">
             <img src={logo2} className="App-logo" alt="logo" />
-            <div>Tron.ai</div>
         </div>
 );
   }

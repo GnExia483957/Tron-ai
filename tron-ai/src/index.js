@@ -16,7 +16,6 @@ root.render(
     <News />
     <QuestionBar />
     <SearchBar />
-    <App />
   </React.StrictMode>
 );
 
