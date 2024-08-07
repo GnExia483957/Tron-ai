@@ -8,7 +8,7 @@ function QuestionBar() {
             <form action="#">
                   <input
                     type="text"
-                    placeholder="Only Supports TRX Hash"
+                    placeholder="Support Tron Address and Tron Transaction Hash"
                     name="search"
                   >
                   </input>

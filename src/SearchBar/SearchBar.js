@@ -7,12 +7,14 @@ function SearchBar() {
     return (
         <div class="searchAI">
             <form action="#">
+                <div className="Search-Input">
                   <input
                     type="text"
-                    placeholder="Search Bar"
+                    placeholder="我是"
                     name="search"
-                  >
+                    >
                   </input>
+                </div>
                 <button className='Search-Button'>
                     <div className="fa fa-search">AI Analysis</div>
                 </button>

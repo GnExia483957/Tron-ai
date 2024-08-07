@@ -1,5 +1,7 @@
 form{
-  width:100%;  
+  font-size: 80%;
+  align-items: center;
+  width:80%;  
 }
 .questionAI{
     background-color: #f6f7fb;
@@ -9,8 +11,12 @@ form{
 }
 
 input{
-    width: 50%;
+    width: 10%;
     padding: 5px 10px;
+}
+
+input:input-placeholder{
+  font:90px;
 }
 
 .TRX-Button {
